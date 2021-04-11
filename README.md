@@ -1,14 +1,12 @@
 # TidalTailsOfInteractingGalaxies
 
-![](./Movies/twothousand.gif)
+My first python project. I simulate galactic collisions. 
 
-My first python project. I simulated colliding rotating galaxies. 
+![](./Movies/twothousand.gif)
 
 Author: Tom George
 Institution: University of Cambridge 
 Email: tomgeorge1@btinternet.com
-
-
 
 TO USE: Open TidalTails.py and follow instructions on there. 
 
