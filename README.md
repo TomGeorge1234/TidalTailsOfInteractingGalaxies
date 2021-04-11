@@ -4,11 +4,13 @@ My first python project. I simulate galactic collisions.
 
 ![](./Movies/twothousand.gif)
 
-Author: Tom George
-Institution: University of Cambridge 
-Email: tomgeorge1@btinternet.com
+_Author_: Tom George
 
-TO USE: Open TidalTails.py and follow instructions on there. 
+_Institution_: University of Cambridge 
+
+_Email_: tomgeorge1@btinternet.com
+
+_To use_: Open TidalTails.py and follow instructions within. 
 
 Contents: 
 * TidalTails.py is the main body of code
